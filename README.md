@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently **a Student**
+  🔭 I’m currently **a Student**
  
- 🌱 I’m currently learning **PHP, Javascript, Python**
+  📜 I’m currently learning **PHP, Javascript, Python**
 
-⚡ Fun fact **I like study from basic**
+  ☕ Fun fact **I like study from basic**
 
  </div>
  
@@ -25,7 +25,7 @@
 </div>
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🔨 Languages-Frameworks-Tools 🔨</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,arduino,java" />
@@ -36,7 +36,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🦾 My Contributions 🦾</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AriSyafri/AriSyafri/output/github-contribution-grid-snake.svg" />
   
