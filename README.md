@@ -27,20 +27,11 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,arduino,java" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,javamysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,java,mysql,laravel,mongodb,react" /><br>
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🦾 My Contributions 🦾</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AriSyafri/AriSyafri/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
