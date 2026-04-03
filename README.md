@@ -10,9 +10,9 @@
 
 <div align="center">
  
-  📜 I’m Ari
+  📜 I’m Ari 
 
-  ☕  **I like study from basic**
+  ☕  **I like study from basic, and enjoy programming**
 
  </div>
  
