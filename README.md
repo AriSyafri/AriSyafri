@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ari+Syafri!;" />
 </h1>
 
-<h3 align="center">Dev</h3>
+<h3 align="center">Web Dev</h3>
 
 <br/>
 
@@ -27,7 +27,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,arduino,java" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,docker,expressjs,tailwind " /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,java,mysql,laravel,mongodb,react,nextjs,typescript" /><br>
 </div>
 
