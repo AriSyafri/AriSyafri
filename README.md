@@ -10,7 +10,7 @@
 
 <div align="center">
  
-  📜 I’m Ari 
+  📜 I’m Ari Syafri
 
   ☕  **I like study from basic, and enjoy programming**
 
